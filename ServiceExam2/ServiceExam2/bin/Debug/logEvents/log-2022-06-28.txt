@@ -1,0 +1,18 @@
+Deleted - C:\Folder1\log-2022-06-27.txt 
+Renamed - C:\Folder1\Test234456 
+Deleted - C:\Folder1\log-2022-06-28 - Copy.txt 
+Created - C:\Folder1\log-2022-06-28 - Copy (2).txt 
+Changed - C:\Folder1\log-2022-06-28 - Copy (2).txt 
+Changed - C:\Folder1\log-2022-06-28 - Copy (2).txt 
+Deleted - C:\Folder1\log-2022-06-28 - Copy (2).txt 
+Created - C:\Folder1\log-2022-06-28 - Copy - Copy.txt 
+Changed - C:\Folder1\log-2022-06-28 - Copy - Copy.txt 
+Changed - C:\Folder1\log-2022-06-28 - Copy - Copy.txt 
+Created - C:\Folder2\InstallUtil - Copy.InstallLog 
+Created - C:\Folder2\InstallUtil.InstallLog 
+Created - C:\Folder2\log-2022-06-28 - Copy - Copy.txt 
+Created - C:\Folder2\log-2022-06-28 - Copy.txt 
+Created - C:\Folder2\log-2022-06-28.txt 
+Created - C:\Folder1\InstallUtil - Copy.InstallLog 
+Changed - C:\Folder1\InstallUtil - Copy.InstallLog 
+Changed - C:\Folder1\InstallUtil - Copy.InstallLog 

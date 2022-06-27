@@ -1,0 +1,11 @@
+C:\Project\ServiceExam2\ServiceExam2\bin\Debug\ServiceExam2.exe.config
+C:\Project\ServiceExam2\ServiceExam2\bin\Debug\ServiceExam2.exe
+C:\Project\ServiceExam2\ServiceExam2\bin\Debug\ServiceExam2.pdb
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.csproj.AssemblyReference.cache
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.csproj.SuggestedBindingRedirects.cache
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.ServiceExam2.resources
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.csproj.GenerateResource.cache
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.csproj.CoreCompileInputs.cache
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.exe
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.pdb
+C:\Project\ServiceExam2\ServiceExam2\obj\Debug\ServiceExam2.ProjectInstaller.resources

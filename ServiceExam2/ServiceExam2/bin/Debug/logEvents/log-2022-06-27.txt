@@ -1,0 +1,7 @@
+Renamed - C:\Folder1\Test1123 
+Created - C:\Folder1\New folder 
+Renamed - C:\Folder1\Test234 
+Deleted - C:\Folder1\Test1123 
+Deleted - C:\Folder1\log-2022-06-27.txt 
+Deleted - C:\Folder1\log-2022-06-27.txt 
+Deleted - C:\Folder1\log-2022-06-27.txt 
